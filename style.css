@@ -1,0 +1,67 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(142, 212, 189);
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: bisque;
+    
+    width: 100%;
+}
+
+
+
+.img{
+    height: 100px;
+    width: 100px;
+    margin-left: 30px;
+    border-radius: 50%;
+    
+}
+
+.images {
+   height: 400px;
+   width: 400px;
+   margin-top: 30px;
+}
+.div2{
+    display: flex;
+    justify-content: space-evenly;
+
+ }
+
+
+.home{
+    text-align: right;
+    color: black;
+}
+.about {
+    background-color: rgb(142, 212, 189);
+   
+    color: black;
+}
+.heading {
+    color: bisque;
+    text-align: center;
+}
+
+.button {
+    color: black;
+    background-color: white;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-weight:bolder;
+}
+
+.img3{
+    height: 500px;
+    width: 100%;
+}
+.foter{
+    background-color: bisque   
+}
